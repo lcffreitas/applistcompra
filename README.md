@@ -1,0 +1,2 @@
+# applistcompra
+aplicativo react native
