@@ -1,2 +1,3 @@
 # applistcompra
-aplicativo react native
+aplicativo react native feito para estudo
+app made just for study
